@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode settings
+.vscode/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# JSON output (optional)
+data_cleaned.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Python cache files
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# MyPy / Pyright / Pyre type checkers
+.mypy_cache/
+.pyright/
+.pyre/
+
+# Test and coverage
+.coverage
+htmlcov/
+.cache/
+
+# Build
+build/
+dist/
+*.egg-info/
